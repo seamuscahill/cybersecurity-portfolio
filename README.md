@@ -1,4 +1,4 @@
-# **Seamus Cahill — Cybersecurity Portfolio**
+# **Seamus Cahill - Cybersecurity Portfolio**
 
 Welcome to my cybersecurity portfolio!  
 This repository showcases my hands-on work in **network analysis, security auditing, vulnerability assessment, and system administration**. Each folder contains project documentation, analysis reports, and reflections from the Google Cybersecurity Certificate.
