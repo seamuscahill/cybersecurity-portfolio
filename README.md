@@ -47,8 +47,7 @@ Documented multiple SOC-style exercises including phishing investigations, ranso
 - **Networking & Analysis:** Wireshark, tcpdump, Suricata  
 - **Security Monitoring:** Splunk, Chronicle  
 - **Scripting & Databases:** Python, BASH, SQL  
-- **Operating Systems:** Linux  
-- **Compliance & Frameworks:** NIST CSF, PCI DSS, GDPR  
+- **Operating Systems:** Linux, Windows
 
 ---
 
