@@ -43,6 +43,11 @@ Documented multiple SOC-style exercises including phishing investigations, ranso
 
 ---
 
+### **05_Resume**
+**File:** [`Cybersecurity_Resume.docx`](05_Resume/Cybersecurity_Resume.docx)
+
+---
+
 ## **Tools & Technologies**
 - **Networking & Analysis:** Wireshark, tcpdump, Suricata  
 - **Security Monitoring:** Splunk, Chronicle  
