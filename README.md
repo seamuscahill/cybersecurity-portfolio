@@ -8,7 +8,7 @@ This repository showcases my hands-on work in **network analysis, security audit
 ## **Portfolio Overview**
 
 ### **01_Vulnerability_Assessment**
-**File:** [`Vulnerability_Assessment_Report.docx`](01_Vulnerability_Assessment/Vulnerability Assesment Report.docx)  
+**File:** [`Vulnerability_Assessment_Report.docx`](01_Vulnerability_Assessment/Vulnerability_Assesment_Report.docx)  
 Performed a full vulnerability and risk analysis of an e-commerce database server. Applied **NIST SP 800-30 Rev. 1** to assess threats and recommend mitigations such as least privilege, MFA, and IDS/IPS integration.
 
 ---
