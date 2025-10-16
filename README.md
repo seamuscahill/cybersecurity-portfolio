@@ -15,9 +15,9 @@ Performed a full vulnerability and risk analysis of an e-commerce database serve
 
 ### **02_Botium_Toys_Audit**
 **Files:**  
-- [`Botium-Toys-Scope-goals-and-risk-assessment-report.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Botium_Toys_Scope_Goals_And_Risk_Assessment_Report.docx)  
-- [`Control-categories.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Control_Categories.docx)  
-- [`Security audit.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Controls_And_Compliance_Checklist.docx)  
+- [`Botium_Toys_Scope_Goals_And_Risk_Assessment_Report.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Botium_Toys_Scope_Goals_And_Risk_Assessment_Report.docx)  
+- [`Control_Categories.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Control_Categories.docx)  
+- [`Security_Audit.docx`](02_Botium_Toys_Audit/02_Botium_Toys_Audit/Controls_And_Compliance_Checklist.docx)  
 
 Completed a mock security audit for Botium Toys using the NIST Cybersecurity Framework (CSF). Identified missing administrative, technical, and physical controls and developed compliance recommendations aligned with PCI DSS and GDPR best practices.
 
